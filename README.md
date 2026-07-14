@@ -33,13 +33,13 @@ The project features both **Player vs AI** and **AI vs AI** gameplay while imple
 
 ## ⚔ AI Battle
 
-![AI Battle](screenshots/ai-battle.png)
+![AI Battle](screenshots/ai-vs-ai.png)
 
 ---
 
-## 🏆 High Scores
+## 🏆 Game Over
 
-![High Scores](screenshots/high-scores.png)
+![High Scores](screenshots/game-over.png)
 
 ---
 
