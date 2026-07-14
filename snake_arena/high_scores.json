@@ -1,0 +1,34 @@
+{
+  "pvai": [
+    {
+      "name": "XYZ",
+      "score": 2
+    },
+    {
+      "name": "XYZ",
+      "score": 0
+    }
+  ],
+  "aibattle": [
+    {
+      "winner": "A* Snake",
+      "timestamp": 133413
+    },
+    {
+      "winner": "A* Snake",
+      "timestamp": 203756
+    },
+    {
+      "winner": "A* Snake",
+      "timestamp": 250773
+    },
+    {
+      "winner": "Draw",
+      "timestamp": 323124
+    },
+    {
+      "winner": "A* Snake",
+      "timestamp": 99743
+    }
+  ]
+}
