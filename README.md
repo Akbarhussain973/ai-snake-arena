@@ -4,10 +4,21 @@
 ![Pygame](https://img.shields.io/badge/Pygame-Game%20Development-00AA00)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-A*%20%7C%20Greedy%20%7C%20Minimax-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub release](https://img.shields.io/github/v/release/Akbarhussain973/ai-snake-arena)
+![GitHub stars](https://img.shields.io/github/stars/Akbarhussain973/ai-snake-arena?style=social)
 
 A modern **AI-powered Snake game** built with **Python** and **Pygame** that showcases multiple Artificial Intelligence algorithms competing in real-time.
 
 The project features both **Player vs AI** and **AI vs AI** gameplay while implementing classical AI techniques including **A\* Search**, **Greedy Best-First Search**, and **Minimax with Alpha-Beta Pruning**.
+
+---
+
+## 🚀 Highlights
+
+- 🧠 Implements three classical AI algorithms: **A\*** Search, **Greedy Best-First Search**, and **Minimax with Alpha-Beta Pruning**.
+- 🎮 Supports both **Player vs AI** and **AI vs AI Battle** gameplay modes.
+- 🗺 Features multiple maps, adjustable difficulty levels, and configurable game speed.
+- 🏗 Built with a modular architecture using **Python** and **Pygame**.
 
 ---
 
@@ -48,7 +59,7 @@ The project features both **Player vs AI** and **AI vs AI** gameplay while imple
 - 🎮 Two gameplay modes
   - Player vs AI
   - AI vs AI Battle
-- 🤖 Three AI agents with different decision-making strategies
+- 🤖 Three AI agents implementing **A\*** Search, **Greedy Best-First Search**, and **Minimax with Alpha-Beta Pruning**
 - 🧠 A\* Search pathfinding
 - ⚡ Greedy Best-First Search
 - ♟ Minimax with Alpha-Beta Pruning
@@ -104,7 +115,7 @@ Uses Alpha-Beta pruning to reduce unnecessary search while selecting safer and m
 # 📂 Project Structure
 
 ```text
-snake-arena-ai/
+ai-snake-arena/
 │
 ├── snake_arena/
 │   ├── assets/
@@ -125,7 +136,6 @@ snake-arena-ai/
 ├── screenshots/
 ├── README.md
 ├── requirements.txt
-├── LICENSE
 └── .gitignore
 ```
 
@@ -133,10 +143,15 @@ snake-arena-ai/
 
 # 🚀 Installation
 
+## 📋 Prerequisites
+
+- Python 3.9+
+- pip
+
 ## Clone the repository
 
 ```bash
-git clone https://github.com/Akbarhussain973/snake-arena-ai.git
+git clone https://github.com/Akbarhussain973/ai-snake-arena.git
 ```
 
 ---
@@ -144,7 +159,7 @@ git clone https://github.com/Akbarhussain973/snake-arena-ai.git
 ## Navigate into the project
 
 ```bash
-cd snake-arena-ai
+cd ai-snake-arena
 ```
 
 ---
@@ -221,9 +236,9 @@ Software Engineering Student
 
 FAST National University of Computer and Emerging Sciences (FAST-NUCES)
 
-**GitHub**
+**Repository:** https://github.com/Akbarhussain973/ai-snake-arena
 
-https://github.com/Akbarhussain973
+**GitHub:** https://github.com/Akbarhussain973
 
 ---
 
